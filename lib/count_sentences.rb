@@ -17,6 +17,6 @@ class String
   end
 
   def count_sentences
-    self.split.reject
+    self.sp.count_sentences
   end
 end
